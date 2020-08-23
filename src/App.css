@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+input, .champs select{
+  width:50%; 
+  font-size:35px; 
+  padding:1em 10%;
+  clear:both; 
+  text-align:right;
+}
+
+label{background:black; padding:3px 6px; font-size:40px; margin-left:1px; font-weight:normal; clear:both;}
